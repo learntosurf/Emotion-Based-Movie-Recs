@@ -1,4 +1,4 @@
-# Inside Film: Emotion-Based Movie Recommendatio
+# Inside Film: Emotion-Based Movie Recommendation
 
 ```bash
 Inside_out_project/
