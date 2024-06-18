@@ -1,0 +1,2 @@
+kobert_model_pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text

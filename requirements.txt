@@ -1,0 +1,10 @@
+mxnet
+pandas
+tqdm
+numpy==1.23.1
+sentencepiece
+transformers
+torch
+git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
+scikit-learn
+streamlit
